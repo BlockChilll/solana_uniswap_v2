@@ -1,0 +1,42 @@
+{
+  "cluster": "devnet",
+  "wallet": "cNuU9CNKFMJtpvxxS2xACLP6zYwFFAKDDh5AjmN7o2E",
+  "programs": {
+    "amm": "HwVgAGBTdPvyXCyN5gRE2pun9BccbskyiRCnMboyeyns",
+    "router": "2b4VvZBkuHoMTxHNaZRdCwmkBiKg4DjUhdY5GBG6Hj2E"
+  },
+  "tokens": {
+    "tokenA": {
+      "mint": "6KySEqeyHqsn7yxa1z7g1jQeReqyogFRXfMxAdMr4HUo",
+      "ata": "7P6ERsahhpi2JcZLTjTKwYqG6ocZXAvPW4qRA7QJVjyr",
+      "decimals": 6
+    },
+    "tokenB": {
+      "mint": "E19rGCLfqEVdNrv8nppBt5WSyPCmVH5RDVJhMJsd67bN",
+      "ata": "8kBu7UXzDxUpwCLgr5iDPwfSCs7k7FUpW5EV5WFZVvoq",
+      "decimals": 6
+    }
+  },
+  "config": {
+    "ammConfig": "ewgMnqsTpQo4yxm59Mea9ehpELgHz4ZncyPpnDyXdHw"
+  },
+  "pools": {
+    "main": {
+      "pool": "BG1EHKCB623Gu8LyniP1uv5QNQtu3XxdCJFWHVAd1WKc",
+      "mintLp": "23NGCgaA4izFzRAL9GFri3nJpZos6GF41s9qyLYcEtG2",
+      "lockedLpAccount": "8PVPBivzjxja6MmUbSkMSAFrhV8eM8FU8SFSo3SDLY2q",
+      "poolAccountA": "BgoxJvRQLZYDjhYkswwVHTsBac444EcbRaM2KtoMycBW",
+      "poolAccountB": "13MRAKEeKHpiSLr8J1sPcciExB5dzvee4oQ4iSL1jZaj",
+      "poolAccountLp": "8RQb4rayAZTgBg41xw8xTWbZRtHdbVGDZUooaYFHfJWh",
+      "userLpAccount": "CtK9bc5n1tSNr2J8VodoRrDgRX7M6gBKNatRwHsioWD3"
+    }
+  },
+  "transactions": [
+    "4tLUro1nJ256cah2n9fuNC4CHN1BRDPasD5JLa6GgHJxDnA7SCXq1zmBCTQsLCDSakwbRhthavngHV3Vnnu84V9W",
+    "37H5xgKSeRQcng1M3KXQCy6ntBSnrTBqnbsTG3tCVYfc9ZGR5uEcALpBNin1gze9xG3wqiXqR1VsWgfkFifkdUJH",
+    "4Cw5LXddHTtYBGuTimfurCd8os9yPs9MtEmHgK4thRCxCvGUw9QsNvRg9xUPoDT3uciv8idptckBTzT3ytSRQozk",
+    "4pTR1TMe15HYw9y2vZawgj1F59TKRtxiro17QzcyG244aPTBBpgaeDjRWReB9vaiKzekpjwogvEZMd1rXcJMMfE1",
+    "2JCFY37XTSxnLUZtXn7fuyyDon5UV9cuWXiCX9hYK7F1YUBRpjDECqJQZxTuKEQPkMdY2e6H2mHfcm591ErkPany",
+    "2czDHj6rYZdcg9fShqQvvHa2kU9jxvbkwssoib6mCCEtxrbmub4kqwTEiJxVBup5T6Wheq5FNjfxyAEzWXTSbymA"
+  ]
+}

@@ -7,7 +7,8 @@
     "test:amm": "ts-mocha -p ./tsconfig.json -t 1000000 \"tests/amm/**/*.test.ts\""
   },
   "dependencies": {
-    "@coral-xyz/anchor": "^0.32.1"
+    "@coral-xyz/anchor": "^0.32.1",
+    "dotenv": "^18.0.9"
   },
   "devDependencies": {
     "@solana/spl-token": "^0.4.15",
